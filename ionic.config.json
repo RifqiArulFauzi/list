@@ -1,0 +1,7 @@
+{
+  "name": "tiga",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
